@@ -8,4 +8,7 @@ Why have a privacy policy that describes what we do with the data we collect if 
 
 At some point it might make sense for us to collect telemetry to make Data Goes Where work better for you. This is the point where the privacy policy would tell you that we reserve the right to notify that we are changing these terms terms at any time. That doesn't seem cool, though. If we have a good reason to start collecting data we will (imagine this!) *ask your permission first*.
 
+---
 
+Stuart Schechter
+2024-12-05
